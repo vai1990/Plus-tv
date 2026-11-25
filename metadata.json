@@ -1,0 +1,6 @@
+{
+  "name": "StreamPulse",
+  "description": "Hybrid WebView EPG and native ExoPlayer IPTV live TV streaming app with HLS, DASH, MP4 detection, ClearKey DRM, PiP, and gesture controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

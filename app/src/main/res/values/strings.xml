@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StreamPulse</string>
+    <string name="player_title_default">Live Stream</string>
+    <string name="action_back">Back to Channel Guide</string>
+    <string name="action_pip">Picture-in-Picture</string>
+    <string name="action_channels">Channels</string>
+    <string name="action_stream_info">Stream Info</string>
+    <string name="action_tracks">Quality and Tracks</string>
+    <string name="action_lock">Lock Controls</string>
+    <string name="action_unlock">Unlock Controls</string>
+    <string name="action_rotate">Toggle Orientation</string>
+    <string name="action_aspect_ratio">Cycle Aspect Ratio</string>
+    <string name="action_play">Play</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_prev_channel">Previous Channel</string>
+    <string name="action_next_channel">Next Channel</string>
+    <string name="action_seek_back">Rewind 10 seconds</string>
+    <string name="action_seek_forward">Forward 10 seconds</string>
+    <string name="action_retry">Retry Stream</string>
+    <string name="action_mute">Toggle Mute</string>
+    <string name="badge_live">LIVE</string>
+    <string name="badge_drm_clearkey">CLEARKEY DRM</string>
+    <string name="label_brightness">Brightness</string>
+    <string name="label_volume">Volume</string>
+    <string name="label_controls_locked">Controls Locked — Tap to Unlock</string>
+    <string name="label_loading_channels">Loading channels from API…</string>
+    <string name="label_detecting_stream">Detecting stream format &amp; DRM…</string>
+    <string name="label_fetching_clearkey">Fetching ClearKey license…</string>
+    <string name="label_channel_drawer_title">Live Channels</string>
+    <string name="label_stream_diagnostics">Stream &amp; DRM Diagnostics</string>
+    <string name="label_track_selection">Video, Audio &amp; Captions</string>
+    <string name="label_auto_quality">Auto (Adaptive)</string>
+    <string name="label_no_subtitles">Off</string>
+    <string name="pip_action_play">Play</string>
+    <string name="pip_action_pause">Pause</string>
+    <string name="pip_action_next">Next Channel</string>
+    <string name="error_invalid_url">Blocked an unsupported or unsafe stream URL.</string>
+    <string name="error_playback_failed">Unable to play this stream right now.</string>
+</resources>

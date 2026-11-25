@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer broadcast signal ring -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M74,34 A28,28 0 0,1 74,74"
+        android:strokeWidth="5"
+        android:strokeColor="#FF00E5FF"
+        android:strokeLineCap="round" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M34,74 A28,28 0 0,1 34,34"
+        android:strokeWidth="5"
+        android:strokeColor="#FF00E5FF"
+        android:strokeLineCap="round" />
+    <!-- Live broadcast status dot -->
+    <path
+        android:fillColor="#FFFF3B5C"
+        android:pathData="M74,30 m-4.5,0 a4.5,4.5 0 1,0 9,0 a4.5,4.5 0 1,0 -9,0" />
+    <!-- Bold play prism silhouette centered in safe zone -->
+    <path
+        android:fillColor="#FFF8FAFC"
+        android:pathData="M43,36 L71,54 L43,72 Z" />
+    <!-- Cyan accent edge on play prism -->
+    <path
+        android:fillColor="#FF00E5FF"
+        android:pathData="M43,36 L51,41 L51,67 L43,72 Z" />
+</vector>
